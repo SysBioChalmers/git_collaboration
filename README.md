@@ -12,7 +12,7 @@ With some more extra interesting text
 
 # My favorite color
 Black, like my heart and soul
-Black
+Red
 White
 Burgundy
 Purple
