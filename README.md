@@ -15,6 +15,7 @@ Black, like my heart and soul
 Black
 White
 Burgundy
+Purple
 
 #Yet another line with my favorite color
 Stated previously that it black to express my personality
