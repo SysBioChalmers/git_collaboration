@@ -22,5 +22,8 @@ Stated previously that it black to express my personality
 # Sunjae's favorite color
 Green
 
+# Another section
+With some text
+
 # Yet another section
 With even more text
