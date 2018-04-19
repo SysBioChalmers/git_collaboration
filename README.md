@@ -22,3 +22,6 @@ Stated previously that it black to express my personality
 # Sunjae's favorite color
 Green
 
+# My favorite color
+Four
+
